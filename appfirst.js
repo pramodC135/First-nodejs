@@ -5,6 +5,11 @@
 //sayHello('Pramod');
 //console.log(window);
 
-console.log(module);
+//console.log(module);
 
-//Creating Module 
+//Creating Module
+
+const log = require('./loggerfirst');
+
+log('message');
+
