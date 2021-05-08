@@ -9,7 +9,7 @@
 
 //Creating Module
 
-const log = require('./loggerfirst');
+const log = require('./logger');
 
 log('message');
 
